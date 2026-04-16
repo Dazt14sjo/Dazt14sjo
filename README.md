@@ -17,7 +17,7 @@ Estudiante de secundaria interesado en la programación, la tecnología y el des
 
 ## Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dazt14sjo&show_icons=true)
 
 
 ## Objetivos
