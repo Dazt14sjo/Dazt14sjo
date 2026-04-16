@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy David Zapata
 
-<!--
-**Dazt14sjo/Dazt14sjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de secundaria interesado en la programación, la tecnología y el desarrollo de proyectos digitales. Me encuentro en constante aprendizaje y busco mejorar mis habilidades prácticas.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Actualmente aprendiendo: HTML, CSS y fundamentos de JavaScript  
+- Interesado en el desarrollo web y la lógica de programación  
+- Enfocado en mejorar mediante práctica constante  
+
+## Tecnologías y herramientas
+
+- HTML  
+- CSS  
+- JavaScript (básico)  
+- Git y GitHub  
+
+## Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+
+
+## Objetivos
+
+- Mejorar mis habilidades en desarrollo web  
+- Aprender nuevas tecnologías relacionadas a software  
+- Construir proyectos más completos y funcionales  
+
+## Contacto
+
+- Email: david.zapata@sjomaristas.edu.pe
